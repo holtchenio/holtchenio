@@ -40,16 +40,6 @@ I enjoy building practical software with a clean structure, readable code, and a
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
 
-### Featured Projects
-
-| Project | Focus |
-| --- | --- |
-| [Vue-collection](https://github.com/holtchenio/Vue-collection) | Vue project collection and frontend practice |
-| [Rust-collection](https://github.com/holtchenio/Rust-collection) | Rust notes, examples, and experiments |
-| [nest](https://github.com/holtchenio/nest) | NestJS backend practice |
-| [nest-admin](https://github.com/holtchenio/nest-admin) | Admin system exploration with NestJS |
-| [vue-template-vue-shadcn](https://github.com/holtchenio/vue-template-vue-shadcn) | Vue template with shadcn-style UI |
-
 ### GitHub Activity
 
 <p align="center">
